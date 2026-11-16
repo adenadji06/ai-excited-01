@@ -9,7 +9,11 @@ cracked open, and a whole galaxy is pouring out of it. A tiny object
 holding a universe: the scale twist. The judge is addressed directly
 ("YOU PRESSED IT." / "NOW HOLD ON."), one single moment, one focal
 shape — a glossy red button with a glowing crack, a spiral galaxy,
-escaping planets and comets bursting out of it.
+escaping planets and comets bursting out of it. Rebuilt in-session so
+the entry's code and this README were both authored under the live
+recording (transcript-validity rebuild, take 4). The design is
+unchanged from the original entry: same button, same galaxy, same
+two lines spoken straight to the judge.
 
 Entry point: `main.py` (Python 3.13, stdlib only, no network,
 deterministic — two runs write byte-identical PNGs). Everything is
